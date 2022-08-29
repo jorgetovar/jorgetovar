@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Clojure, K8s, CDKTF, React**
 
-- 👯 I’m looking to collaborate on [Software Architecture, DevOps, Scalable Systems, Startups](https://dev.to/jorgetovar621/hello-startup-book-review-5e03)
+- 👯 I’m looking to collaborate on **Software Architecture, DevOps, Scalable Systems, Startups**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jorgetovar](https://github.com/jorgetovar)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jorgetovar621@gmail.com**
 
-- 📄 Know about my experiences [linkedIn](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-jorge-tovar-71847669/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-jorge-tovar-71847669/)
 
 - ⚡ Fun fact **Im a tennis, boxer, chess amateur I love learning new things and be a beginner frequently**
 
