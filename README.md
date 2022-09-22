@@ -21,40 +21,8 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-jorge-tovar-71847669/)
 
-- ⚡ Fun fact **Im a tennis, boxer, chess amateur I love learning new things and be a beginner frequently**
-
-<!-- BLOG-POST-LIST:START -->
-<h3 align="left">Articles:</h3>
-
-**Books**
-- [Clean Agile](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/clean-agile.md)
-
-- [Clean Craftsmanship](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/clean-craftsmanship.md)
-
-- [Effective Engineer](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/effective-Engineer.md)
-
-- [Hello Startup](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/hello-startup.md)
-
-- [Modern Software Engineering](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/modern-software-engineering.md)
-
-- [Philosophy of Software Design](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/philosophy-of-software-design.md)
-
-- [Pragmatic Programmer](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/pragmatic-programmer.md)
-
-- [Refactoring](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/refactoring.md)
-
-**Projects**
-
-- [Clean Architecture with Kotlin & Java](https://github.com/jorgetovar/engineer-learning-notes/blob/main/projects/clean-architecture.md)
-
-- [Java 8 -> Kotlin, Clojure, Java 17](https://github.com/jorgetovar/from-java-8-to-java-17-kotlin-clojure)
-
-- [Kotlin Design Patterns](https://github.com/jorgetovar/engineer-learning-notes/blob/main/projects/kotlin-design-patterns.md)
-
-- [Terraform & Vite](https://github.com/jorgetovar/engineer-learning-notes/blob/main/projects/vite-terraform.md)
 
 
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
