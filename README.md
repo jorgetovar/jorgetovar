@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **AWS, Kotlin, Terraform, Clojure, Productivity**
 
-- 📫 How to reach me **jorgetovar621@gmail.com**
-
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB-jorge-tovar-71847669/)
 
 
