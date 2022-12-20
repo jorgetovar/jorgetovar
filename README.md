@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Software Architecture, DevOps, Scalable Systems, Startups**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jorgetovar](https://github.com/jorgetovar)
+- 👨‍💻 All of my projects are available at [github.com/jorgetovar](https://github.com/jorgetovar)
 
-- 📝 I regularly write articles on [https://www.jorgetovar.dev/](https://www.jorgetovar.dev/)and [https://dev.to/jorgetovar621](https://dev.to/jorgetovar621) 
+- 📝 I regularly write articles on [www.jorgetovar.dev/](https://www.jorgetovar.dev/) and [dev.to/jorgetovar621](https://dev.to/jorgetovar621) 
 
 - 💬 Ask me about **AWS, Kotlin, Terraform, Clojure, Productivity**
 
