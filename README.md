@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jorgetovar](https://github.com/jorgetovar)
 
-- 📝 I regularly write articles on [https://dev.to/jorgetovar621](https://dev.to/jorgetovar621) and [[https://dev.to/jorgetovar621](https://www.jorgetovar.dev/)]([https://dev.to/jorgetovar621](https://www.jorgetovar.dev/))
+- 📝 I regularly write articles on [https://dev.to/jorgetovar621](https://dev.to/jorgetovar621) and [https://dev.to/jorgetovar621](https://www.jorgetovar.dev/)
 
 - 💬 Ask me about **AWS, Kotlin, Terraform, Clojure, Productivity**
 
