@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Global & Remote Software Company as a Software Architect**
 
-- 🌱 I’m currently learning **Clojure, K8s, CDKTF, React**
+- 🌱 I’m currently learning **Clojure, Go**
 
 - 👯 I’m looking to collaborate on **Software Architecture, DevOps, Scalable Systems, Startups**
 
